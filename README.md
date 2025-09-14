@@ -1,4 +1,3 @@
-```markdown
 # Youbot 🎥🤖  
 **No time to watch? Link it. Done.**  
 
@@ -38,25 +37,24 @@ It’s fast, efficient, and capable of handling even **10+ hour-long YouTube vid
 ---
 
 ## 📂 Project Structure  
-```
-
+```bash
 youbot/
-│── frontend/   # React (Vite) frontend
-│── backend/    # FastAPI backend with LangChain RAG pipeline
-│── README.md   # Project documentation
-│── LICENSE     # Open-source license
-
+├── frontend/   # React (Vite) frontend
+├── backend/    # FastAPI backend with LangChain RAG pipeline
+├── README.md   # Project documentation
+└── LICENSE     # Open-source license
 ````
 
 ---
 
-## 🖥️ Setup & Installation  
+## 🖥️ Setup & Installation
 
-### Clone the Repository  
+### Clone the Repository
+
 ```bash
 git clone https://github.com/Abdullah-Khan-Dev/youbot.git
 cd youbot
-````
+```
 
 ### Frontend (React)
 
@@ -101,4 +99,3 @@ Feel free to fork the repo and submit a PR.
 * [LangChain](https://www.langchain.com/)
 * [FastAPI](https://fastapi.tiangolo.com/)
 * [React](https://react.dev/)
-
